@@ -24,3 +24,20 @@ This is the FastAPI backend for the Dashboard as a Service application.
 ## API Endpoints
 - `GET /`: Health check.
 - `POST /api/upload`: Upload a file for processing.
+
+  
+
+# Dashboard as a Service - Frontend
+
+Frontend for the Service  (navigate to frontend folder)
+
+## Setup
+1. Install dependencies using bun:
+   ```bash
+   bun install
+   ``
+2.Run dev:
+  ```bash
+      bun run dev
+   ```
+
