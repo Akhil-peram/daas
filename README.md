@@ -34,10 +34,12 @@ Frontend for the Service  (navigate to frontend folder)
 ## Setup
 1. Install dependencies using bun:
    ```bash
+   
    bun install
-   ``
-2.Run dev:
+   ```
+2. Run dev:
   ```bash
+
       bun run dev
    ```
 
